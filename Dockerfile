@@ -1,4 +1,3 @@
-
 # Production Dockerfile — serve the compiled static site with nginx
 # Copies only the site files needed for runtime (index and static directories)
 FROM nginx:stable-alpine
